@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/e05c7fc31c.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>2 nd</title>
+    <style>
+    html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("360_F_248065175_UKqGpkZFZG3mPBKKKpxseqS6VlIlmzq7.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#button1{
+    margin-top: 2%;
+    margin-left: 48%;
+}
+
+.b1:hover{
+    background-color: yellow;
+}
+
+#t1{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-31{
+    height: 30px;
+    width: 120px;
+}
+    </style>
+</head>
+
+<body>
+    <div>
+        <img src="cute-love-kisses-for-you-uujbuokzyop19e4w.webp" alt="Animated GIF" style="height: 120px; margin-top: 15%; margin-left: 47%;">
+    </div>
+    <div id="button1">
+        <a href="home.html">
+            <button class="btn-31">
+                <span class="text-container">
+                  <span class="text">Click</span>
+                </span>
+              </button>
+        </a>
+    </div>
+</body>
